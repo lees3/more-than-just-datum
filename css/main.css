@@ -13,3 +13,11 @@ header {
 .grey {
   background-color: #efefef;
 }
+
+table {
+  min-width: 45em;
+}
+
+.white {
+  background-color: #fff;
+}
