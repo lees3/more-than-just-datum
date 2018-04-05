@@ -21,10 +21,3 @@ table {
 .white {
   background-color: #fff;
 }
-
-@media only screen and (min-width: 60em) {
-
-  .table-wrapper {
-    overflow: visible;
-  }
-}
